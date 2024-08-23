@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDA876A-981C-A406-30D9-8D7CD7732D51}|Assembly-CSharp.csproj|c:\\users\\mende\\documents\\repositorio\\juego_final\\assets\\scripts\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDA876A-981C-A406-30D9-8D7CD7732D51}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDA876A-981C-A406-30D9-8D7CD7732D51}|Assembly-CSharp.csproj|C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\assets\\scripts\\pruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDA876A-981C-A406-30D9-8D7CD7732D51}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDA876A-981C-A406-30D9-8D7CD7732D51}|Assembly-CSharp.csproj|C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\assets\\scripts\\minienemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDA876A-981C-A406-30D9-8D7CD7732D51}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minienemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDA876A-981C-A406-30D9-8D7CD7732D51}|Assembly-CSharp.csproj|C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\assets\\scripts\\playerbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDA876A-981C-A406-30D9-8D7CD7732D51}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDA876A-981C-A406-30D9-8D7CD7732D51}|Assembly-CSharp.csproj|C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDA876A-981C-A406-30D9-8D7CD7732D51}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDA876A-981C-A406-30D9-8D7CD7732D51}|Assembly-CSharp.csproj|C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\assets\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDA876A-981C-A406-30D9-8D7CD7732D51}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDA876A-981C-A406-30D9-8D7CD7732D51}|Assembly-CSharp.csproj|C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\assets\\scripts\\playerhealt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDA876A-981C-A406-30D9-8D7CD7732D51}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDA876A-981C-A406-30D9-8D7CD7732D51}|Assembly-CSharp.csproj|C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\assets\\scripts\\slowmotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDA876A-981C-A406-30D9-8D7CD7732D51}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slowmotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDA876A-981C-A406-30D9-8D7CD7732D51}|Assembly-CSharp.csproj|C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDA876A-981C-A406-30D9-8D7CD7732D51}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerHealt.cs",
+              "DocumentMoniker": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\Assets\\Scripts\\PlayerHealt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealt.cs",
+              "ToolTip": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\Assets\\Scripts\\PlayerHealt.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:44:25.15Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pruebas.cs",
+              "DocumentMoniker": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\Assets\\Scripts\\Pruebas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pruebas.cs",
+              "ToolTip": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\Assets\\Scripts\\Pruebas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:15:25.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiniEnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\Assets\\Scripts\\MiniEnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniEnemyController.cs",
+              "ToolTip": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\Assets\\Scripts\\MiniEnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniEnemyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:27:52.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerBullet.cs",
+              "DocumentMoniker": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\Assets\\Scripts\\PlayerBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerBullet.cs",
+              "ToolTip": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\Assets\\Scripts\\PlayerBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerBullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:29:22.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BossController.cs",
+              "DocumentMoniker": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\Assets\\Scripts\\BossController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossController.cs",
+              "ToolTip": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\Assets\\Scripts\\BossController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:31:50.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:42:58.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerShooting.cs",
+              "DocumentMoniker": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\Assets\\Scripts\\PlayerShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShooting.cs",
+              "ToolTip": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\Assets\\Scripts\\PlayerShooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerShooting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T23:03:07.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SlowMotion.cs",
+              "DocumentMoniker": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\Assets\\Scripts\\SlowMotion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SlowMotion.cs",
+              "ToolTip": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\Assets\\Scripts\\SlowMotion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SlowMotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:54:30.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\mende\\Documents\\Repositorio\\Juego_Final\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:19:35.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
